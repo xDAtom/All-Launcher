@@ -15,6 +15,7 @@ Public Class Form1
         WindowContent.Size = New Size(Me.Width - 24, Me.Height - 60)
         ItemBox.Location = New Point((WindowContent.Width - ItemBox.Width) / 2, (WindowContent.Height - 437) / 2)
         EditItemsButton.Location = New Point(ItemBox.Location.X + ItemBox.Width - EditItemsButton.Width, ItemBox.Location.Y + 43)
+        Launch.Location = New Point((WindowContent.Width - Launch.Width) / 2, Launch.Location.Y)
         ItemBox.Items.Clear()
         Dim current_directory As New IO.DirectoryInfo(Directory.GetCurrentDirectory())
         Dim files_in_directory As IO.FileInfo() = current_directory.GetFiles()
