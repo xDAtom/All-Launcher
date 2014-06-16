@@ -1,5 +1,4 @@
 D:\VS2008\All-Launcher\All-Launcher\bin\Release\All-Launcher.exe
-D:\VS2008\All-Launcher\All-Launcher\bin\Release\All-Launcher.pdb
 D:\VS2008\All-Launcher\All-Launcher\bin\Release\All-Launcher.xml
 D:\VS2008\All-Launcher\All-Launcher\obj\Release\ResolveAssemblyReference.cache
 D:\VS2008\All-Launcher\All-Launcher\obj\Release\All_Launcher.Form1.resources
@@ -7,4 +6,3 @@ D:\VS2008\All-Launcher\All-Launcher\obj\Release\All_Launcher.Resources.resources
 D:\VS2008\All-Launcher\All-Launcher\obj\Release\All-Launcher.vbproj.GenerateResource.Cache
 D:\VS2008\All-Launcher\All-Launcher\obj\Release\All-Launcher.exe
 D:\VS2008\All-Launcher\All-Launcher\obj\Release\All-Launcher.xml
-D:\VS2008\All-Launcher\All-Launcher\obj\Release\All-Launcher.pdb
